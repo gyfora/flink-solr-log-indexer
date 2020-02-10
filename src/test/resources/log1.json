@@ -1,0 +1,15 @@
+{
+  "source_host": "gyula-2.gce.cloudera.com",
+  "method": "completePendingCheckpoint",
+  "level": "INFO",
+  "message": "Completed checkpoint 1 for job 5e70cf704ed010372e2007333db10cf0 (50738 bytes in 2721 ms).",
+  "mdc": {},
+  "yarnContainerId": "container_1571051884501_0001_01_000001",
+  "@timestamp": "2019-10-14T11:21:07.400Z",
+  "file": "CheckpointCoordinator.java",
+  "line_number": "906",
+  "thread_name": "jobmanager-future-thread-1",
+  "@version": 1,
+  "logger_name": "org.apache.flink.runtime.checkpoint.CheckpointCoordinator",
+  "class": "org.apache.flink.runtime.checkpoint.CheckpointCoordinator"
+}
